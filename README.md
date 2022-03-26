@@ -34,3 +34,4 @@ We also want to see which criteria are effective in people's home purchases and 
 12. When we look at the graphics, we prefer the models that give the highest performance and have the lowest errors in our models. As perfromans, we see that Linear Regression, Ridge Regression, Lasso Regression, Random Forest Regressor and Arificial Neural Networks models are the best. However, the KNeighbors Regressor is also a usable model, but it will not be our first choice. Our models with the lowest error among all models are Linear, Lasso Regression and Artificial Neural Networks models.
 
 - [Data Set](https://www.kaggle.com/datasets/mssmartypants/paris-housing-price-prediction)
+
